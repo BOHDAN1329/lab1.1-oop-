@@ -11,7 +11,6 @@ int main()
     p1.read();
     cout << "(a) with index (j) equals " << p1.elementJ(5) << endl;
 
-
     cout << "Progression2" << endl;
     p2.set_a(2);
     p2.set_r(3);
@@ -23,6 +22,4 @@ int main()
     cout << "a = " << p3.get_a() << endl;
     cout << "r = " << p3.get_r() << endl;
     cout << "(a) with index (j) equals " << p3.elementJ(3) << endl;
-
 }
-
