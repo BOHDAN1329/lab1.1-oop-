@@ -1,0 +1,4 @@
+﻿  UnitTest1.cpp
+D:\ООП\lab1.1-oop-\lab1.1\Progression.h(13,29): warning C4244: 'return': conversion from 'const double' to 'int', possible loss of data
+D:\ООП\lab1.1-oop-\lab1.1\Progression.h(14,29): warning C4244: 'return': conversion from 'const double' to 'int', possible loss of data
+  UnitTest1.vcxproj -> D:\ООП\lab1.1-oop-\x64\Debug\UnitTest1.dll

@@ -1,0 +1,6 @@
+﻿  Source.cpp
+D:\ООП\lab1.1-oop-\lab1.1\Progression.h(13,29): warning C4244: 'return': conversion from 'const double' to 'int', possible loss of data
+D:\ООП\lab1.1-oop-\lab1.1\Progression.h(14,29): warning C4244: 'return': conversion from 'const double' to 'int', possible loss of data
+D:\ООП\lab1.1-oop-\lab1.1\Source.cpp(12,17): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\ООП\lab1.1-oop-\lab1.1\Source.cpp(12,14): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  lab1.1.vcxproj -> D:\ООП\lab1.1-oop-\x64\Debug\lab1.1.exe
